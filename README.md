@@ -159,6 +159,6 @@ When using this interface information, developers should:
 
 ## License
 
-The license for this hardware interface documentation will be provided before public release.
-
-Unless explicitly stated otherwise, this repository does not grant permission to reproduce, manufacture, or clone NeuraDock hardware.
+- Hardware design files: CERN-OHL-W
+- Mechanical CAD files: CC BY-SA 4.0
+- Software (SDK and tools): MIT License
