@@ -67,7 +67,7 @@ Based on the current interface reference diagram, the 16-pin electrode connector
 | CH5 | EEG channel 5 |
 | CH6 | EEG channel 6 |
 | CH7 | EEG channel 7 |
-| CH8 | EEG channel 8 |
+| CH8 | EEG channel 8 (not used) |
 | Bias | Bias / driven reference interface |
 | GND | Ground |
 | GND | Ground |
